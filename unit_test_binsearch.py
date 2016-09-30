@@ -4,7 +4,7 @@ import numpy as np
 import unittest as ut
 
 
-from ~/cs207binsearch/binsearch.py import binary_search
+from binsearch import binary_search
 
 class MyTest(unittest.TestCase):
     
